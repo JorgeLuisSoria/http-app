@@ -1,5 +1,9 @@
 
-
+/**
+ * 
+ * @param {Like<User>} localhostUser 
+ * @returns {User} 
+ */
 export const localhostUserToModel = ( localhostUser ) => {
 
     const {
